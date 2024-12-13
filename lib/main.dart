@@ -34,12 +34,20 @@ class ImageVideoListScreen extends StatefulWidget {
 class _ImageVideoListScreenState extends State<ImageVideoListScreen> {
   List<Map<String, String>> mediaList = [
     {
-      "image": "https://example.com/sample_image_1.png",
-      "video": "https://example.com/sample_video_1.mp4"
+      "image": "https://clap.solutions-apps.com/Upload/Admin/Picture/team_63848266092302156211.jpg",
+      "video": "https://clap.solutions-apps.com/Upload/Gallery/Video/638583856080198595190.mp4"
     },
     {
-      "image": "https://example.com/sample_image_2.jpg",
-      "video": "https://example.com/sample_video_2.mp4"
+      "image": "https://clap.solutions-apps.com/Upload/Admin/Picture/team_63853456452025036711.jpg",
+      "video": "https://clap.solutions-apps.com/Upload/Gallery/Video/638583179936129313181.mp4"
+    },
+    {
+      "image": "https://clap.solutions-apps.com/Upload/Admin/Picture/team_63862605621030932311.jpg",
+      "video": "https://clap.solutions-apps.com/Upload/Gallery/Video/638269049794023264162.mp4"
+    },
+    {
+      "image": "https://clap.solutions-apps.com/Upload/Admin/Picture/team_63862604260881605412.jpg",
+      "video": "https://clap.solutions-apps.com/Upload/Gallery/Video/638269484519323852162.mp4"
     }
   ];
 
